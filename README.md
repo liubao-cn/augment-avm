@@ -1,8 +1,18 @@
-# augment-atm
+# vtm
 
-> 🌩️ augment 云端同步工具
+> 🌩️ augment 云端同步工具和verdent云端同步工具
 
 ---
+## 🚀 第一次使用说明
+1. **退出** VSCode系列 中原有的 **verdent 账号**
+2. **重置环境** verdent顶部点重置环境
+3. 选择 **登录**，打开vscode系列即可成功使用
+<img width="1700" height="1500" alt="image" src="https://github.com/user-attachments/assets/ae46bfb3-afc1-4dbc-b98a-9dc6c57f7953" />
+<img width="1700" height="1500" alt="image" src="https://github.com/user-attachments/assets/61141d11-0dd9-4a07-9ffb-cf04ea5ce7dd" />
+
+
+---
+
 
 ## 🚀 第一次使用说明
 
